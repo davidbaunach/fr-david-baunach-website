@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://davidbaunach.github.io/fr-david-baunach-website/sitemap.xml
