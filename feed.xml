@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Fr David Baunach</title>
+    <link href="file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/feed.xml" rel="self" />
+    <link href="file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview" />
+    <updated>2022-07-19T11:27:49-05:00</updated>
+    <author>
+        <name>Fr David Baunach</name>
+    </author>
+    <id>file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview</id>
+
+    <entry>
+        <title>P2P Messaging </title>
+        <author>
+            <name>Fr David Baunach</name>
+        </author>
+        <link href="file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/p2p-messaging/index.html"/>
+        <id>file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/p2p-messaging/index.html</id>
+            <category term="Blog"/>
+
+        <updated>2022-07-19T11:27:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                    "I found a new p2p messaging app, got time to help me test it?" I say these words far too often, and I'm probably close to burning out a few friendships because of it. Over the past few years, I've been on a quest to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    "I found a new p2p messaging app, got time to help me test it?"
+<br>
+<br>I say these words far too often, and I'm probably close to burning out a few friendships because of it.
+<br>
+<br>Over the past few years, I've been on a quest to find a secure and private messenger app.
+<br>
+<br>The full list of apps I've researched and tested out: Wickr, Signal, Threema, Briar, Session, Manyverse, Berty, and Jami.
+<br>
+<br>As I researched and tested out different ones, the scope of what I was looking for changed.
+<br>
+<br>Started out looking for some sort of privacy and security, learned the terminology of e2ee (end-to-end encryption) to keep messages secure, the ever present danger of metadata, the major vulnerability in the use of centralized servers, and finally, the double edged sword that is p2p (peer-to-peer).
+<br>
+<br>Encryption is great, but if your messages are stored on any sort of centralized server, the metadata present in that string of messages (even if the messages themselves are encrypted), can be enough to destroy privacy.
+<br>
+<br>So use of servers needs to be minimized, with as much as possible happening on the devices of the users themselves.
+<br>
+<br>Thus, p2p.
+<br>
+<br>Direct communication between peer devices (one phone connecting directly to another phone) brings with it a whole slew of technical problems. The Internet wasn't designed to do such a thing.
+<br>
+<br>If pure p2p is going to happen, the only reliable way, is to be on the same local network. Internet connectivity is possible in some cases, but both devices have to be running the program at the same time, and even then, a minor hiccup in connectivity and the connection can be completely lost for some time.
+<br>
+<br>Not great for a messenger.
+<br>
+<br>To combat this, every single one of the messenger apps I've tested uses some sort of server at the very least handle the connecting of peer devices. Here's a little bit about all the ones I've tested:
+<br>
+<br>1. Wickr, Threema, and Signal: these were the most problematic, they all failed my first test: if I can restore my account without keeping a backup file, or connecting to a peer, then my account is backed up somewhere that I can't control. I need to trust that they are keeping it safe, and that's a deal-breaker. Their encryption can be amazing, but the thing with encryption is that it's not if it can be broken, it's when will it be broken.
+<br>
+<br>2. Briar: the first one that seemed to check all the boxes: messages are stored locally, servers-esque clients are only used to facilitate connections between peers, can easily work just over Bluetooth or wifi in case of emergency situations, and one of the coolest features: the app can be shared offline if needed in an emergency situation. There's no way to restore accounts, which is both good and bad. Good because there are no copies floating around out there, but bad, since I have no option to keep my own backup. All-in-all a good app, I had a few things I didn't like about it (no desktop app, not as many configurable options as I wanted), but I still keep it on my phone in case things get bad.
+<br>
+<br>3. Session: intrigued me quite a bit, using a blockchain and nodes to replace the server component. It's the Oxen blockchain, and messages are relayed by nodes, HOWEVER, there does seem to be some replication process going on as well, since you can restore an account via a seed phrase. I really like the concept, and still use it from time to time, but there seem to be potential vulnerabilities, and I'm waiting for those to come to light before I rely on it.
+<br>
+<br>4. Manyverse: I fell in love with this project when I first started reading up on it. Based on the SSB protocol, each device is essentially a node, building it's own time-stamped append-only chain of messages and posts. A server is still needed for devices to connect to each other over the Internet, but Manyverse doesn't run any servers, you have to run your own. For the time being, it's the most p2p option out there. Due to this, onboarding friends is a chore, and you or one of your friends needs to be running a server (it's very lightweight though, could be self-hosted on a Raspberry Pi) to facilitate connections. I've been running a server for a few months, and I'll keep it going for the foreseeable future, there's a lot of potential in this project.
+<br>
+<br>5. Berty: still incredibly early in it's development, this project leverages IPFS to replace the server component. My testing has shown it's a ways off from being reliable, but the potential is amazing. Even old PCs can run an IPFS node, if the team gets it right, I can see this being the most pure p2p option, and also the easiest to use and onboard. But again, it's got a ways to go.
+<br>
+<br>6. Jami: just found this one a few days ago, and my initial testing has been flawless. It's using older protocols, which makes sense, the Internet was made for distributed comms, no need to reinvent the wheel. Makes use of servers for connecting peers over the Internet, but is highly customization, and there's documentation on how to run your own server. My thoughts at this moment is to use it as my daily driver, until Manyverse or Berty get to the point where they can be a worthy replacement.
+<br>
+<br>In conclusion: through my research and testing, narrowed down what I was looking for to something that minimized the need for servers to the absolute minimum, makes self-hosting a possibility, keeps as much data stored on peer devices, and have control over backing up data. Manyverse does this best at the moment, Berty is the project I'll be following with the most interest, and Jami, after a little more research, is probably what I'll be using in the meantime until Manyverse or Berty is ready for my non-tech friends.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Uber Everything!</title>
+        <author>
+            <name>Fr David Baunach</name>
+        </author>
+        <link href="file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/uber-everything/index.html"/>
+        <id>file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/uber-everything/index.html</id>
+            <category term="Blog"/>
+
+        <updated>2022-07-19T11:24:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Rev. David Baunach 2022.07.12 The business model of Uber has been intriguing to me since they launched in 2009. A cab company that didn't own any vehicles, didn't really have employees, but offered employment with a low threshold of requirements: a vehicle and a drivers&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Rev. David Baunach
+<br>
+<br>2022.07.12
+<br>
+<br>The business model of Uber has been intriguing to me since they launched in 2009.
+<br>
+<br>A cab company that didn't own any vehicles, didn't really have employees, but offered employment with a low threshold of
+<br>requirements: a vehicle and a drivers license.
+<br>
+<br>This also allowed for some immediate savings on the part of customers using the service: all Uber needed to exist was a
+<br>slim commission, while the rest of the fare went to the driver.
+<br>
+<br>Boiling it down: Uber was able to get rid of a lot of the managerial bloat which bogs down most traditional companies,
+<br>and keeping things lean by essentially contracting out as many positions as possible, to keep prices to a minimum, and
+<br>thus allowing them to expand at a ridiculous rate.
+<br>
+<br>The Model
+<br>
+<br>This model can only work using a protocol or application layer to remove basic management from the equation.
+<br>
+<br>There are three layers: necessary management (legal team, tech support and development, customer service, executive staff),
+<br>the app or protocol, and the workers.
+<br>
+<br>What is stopping us from using this model in other fields?
+<br>
+<br>Use it for Everything!
+<br>
+<br>I've had various ideas over the years about where this model could be used. I'd say my two best were for urban farming, and
+<br>for journalism. I'll give a brief explanation of these two, but ultimately, I think the model could be used for literally
+<br>everything we use traditional business models for now.
+<br>
+<br>Urban Farming:
+<br>
+<br>Front lawns are wasted space, imagine being able to rent out your lawn, someone grows crops on it, and you get a cut of the
+<br>profits once they are harvested and sold.
+<br>
+<br>On the company side of things, same as Uber, all they're really doing is connecting people that want to urban farm, with
+<br>people who want to rent out their yards.
+<br>
+<br>It'll probably be a little more akin to AirBnB, since there will need to be more communication between the farmers and those
+<br>renting out their yards, but all that could easily be accomplished through an app.
+<br>
+<br>And it will tie in well with existing infrastructure: farmers markets will have produce being grown literally in it's own
+<br>backyard, and those who want to get into urban farming without owning land will have an option.
+<br>
+<br>Journalism:
+<br>
+<br>Imagine that anyone, in the vicinity of a news-worthy event, could immediately report on the basic who, what, when, and where
+<br>or that event, and get reimbursed for that reporting.
+<br>
+<br>Again, just like Uber, the company part just has to connect those that are willing to make such reports, with those that want
+<br>that information.
+<br>
+<br>It also ties into existing infrastructure: major news articles will get the basic information faster, can run their stories
+<br>quicker, and independent fact checkers will have open access to verify that info.
+<br>
+<br>In this case a subscription or ad based revenue model would probably be necessary, and great care would need to be taken in
+<br>dispersal of those funds to the reporters who make genuinely helpful reports, but these are difficulties that can be overcome,
+<br>not insurmountable problems.
+<br>
+<br>Conclusion:
+<br>
+<br>The Uber model of using technology to connect independent contractors with customers, with the company in between only providing
+<br>the necessary services in connecting the two, is a method that can be widely used. I gave the examples of urban farming and
+<br>journalism, but really, the sky is the limit. My hope is we'll see many fields of business embrace this model in the coming years.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Saint Maker Whitepaper</title>
+        <author>
+            <name>Fr David Baunach</name>
+        </author>
+        <link href="file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/saint-maker-whitepaper/index.html"/>
+        <id>file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/saint-maker-whitepaper/index.html</id>
+            <category term="Blog"/>
+
+        <updated>2022-07-18T21:10:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                    By Rev. David M Baunach Anno Domini 2021 Executive Summary Building a framework (the Saint Maker) to form evangelists, meant to encompass all aspects of life, making use of any technologies now available, and those developed in the future. The tool for developing the Saint&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    By Rev. David M Baunach
+<br>
+<br>Anno Domini 2021
+<br>
+<br>Executive Summary
+<br>
+<br>Building a framework (the Saint Maker) to form evangelists, meant to encompass all aspects of life, making use of any technologies now available, and those developed in the future. The tool for developing the Saint Maker will be a university. The university will consist of teaching companies where students work to cover tuition. The three-fold reason for this model is: to assist in the university’s mission by being more inter-connected with daily life, providing various benefits to students, and to help reach financial self-sufficiency as quickly as possible.
+<br>
+<br>Necessity
+<br>
+<br>Problem: how to evangelize the whole world?
+<br>
+<br>Solution: form faith-filled, hard-working Catholics. They will evangelize the world.
+<br>
+<br>Problem: how to form these Catholics?
+<br>
+<br>Solution: through a framework of formation that catechizes praxatically and formally.
+<br>
+<br>Problem: present frameworks (parish catechesis, Catholic schools [including home schools], Catholic universities, and even parishes in general), have a low success rate compared to their failures.
+<br>
+<br>Solution: our present methods are too fragmented. A true solution encompasses all aspects of a person’s life. As God meets people at all times in their lives, the solution must be present at all times and in all places as well. We need a way to connect everything: parish life (liturgy, prayer, charity), family life, catechesis, learning, social life, financial life, business life, family life.
+<br>
+<br>Problem: there presently exists no way to extrinsically connect all these things outside of the individual them-self (who obviously connects all these things by being the point of conflux). 
+<br>
+<br>Solution: technology for a complete solution is not yet achieved, but using existent technological means, a framework could be made that begins to bridge all those areas of life. 
+<br>
+<br>That is our goal.
+<br>
+<br>A way to connect prayer and work, family and friends, liturgy and learning. All within an explicitly and overwhelmingly Catholic context. To form disciples of all nations.
+<br>
+<br>Nexus
+<br>
+<br>The overarching goal is to use any present and future technological means to create a framework for Catholic life that promotes sanctity.
+<br>
+<br>The task is the same as it’s always been, but new tools to aid in accomplishing that task are continually developed.
+<br>
+<br>A full answer of what the Saint Maker will look like (this nexus that impregnates the whole life of a Catholic with Catholicity), is not yet clear.
+<br>
+<br>To find clarity on how it needs to be designed, the first step is to develop a place for the incubation of this nexus, and that place is a university.
+<br>
+<br>University
+<br>
+<br>There is no need to reinvent the wheel, the Catholic Church knows how to run universities.
+<br>
+<br>This one will have a goal: making a community that has both the capability and the resources to develop the Saint Maker.
+<br>
+<br>Since we will be building a new university, there are aspects that must be considered to make it the ideal incubation chamber for our task. The typical divide from academia and everyday life, is not helpful in regards to the goal of this university. In bridging the two, we can build a university that is better equipped to design and build the Saint Maker, as well as provide benefits to students not found in a typical university setting.
+<br>
+<br>University Life
+<br>
+<br>A student begins by applying online. This first step is even a class, as the application is a tutorial in how to effectively fill out applications for employment. Part of that application is applying for your first job in the university.
+<br>
+<br>If accepted, follow up tutorials are begun to prepare for a job interview, which will also be a teaching opportunity. Concurrently, tutorials are begun for placement in a dorm, which is carried out exactly the same as applying for an apartment. 
+<br>
+<br>With acceptance to the university, a final job offer, and a dorm “rented,” the student is ready to move in. 
+<br>
+<br>The first semester is practicum oriented: classes in everything you need to be a successful adult in this world (faith being most important, so classes in how to live a saintly life, but also money management, time management, how to study, how to learn, how to think effectively, how to keep a house, etc).
+<br>
+<br>Towards the end of the first semester, begin transition into formal education. Making use of online and in-person classes (both developed by the university but, especially initially, also from other universities), and also other programs for blue collar work (apprenticeships and certificate programs). 
+<br>
+<br>During first semester, the student will apply for a mentor. This mentor will help them through the growing pains of the first semester (which will be substantial, especially in comparison with your typical university experience [due to essentially needing to act like an adult from day one]), and should also function as a very basic spiritual advisor.
+<br>
+<br>There will be no separation between academia and the rest of the world, this will be exactly like the real world. There will be no breaks in the student’s job, they’ll need to negotiate time off to visit their families.
+<br>
+<br>The university will also function as it’s own micro-economy. Students will be paying their way by working, but a profit-sharing system will help encourage diligent work, help them learn money management, and further stimulate the local economy.
+<br>
+<br>Our hypothetical student will continue into their second year, able at any time to apply for a different job or a different dorm. University life is year-round, both to better integrate into real life, but also to avoid any difficulties in staffing university jobs.
+<br>
+<br>As the student approaches the end of year two, it’s their turn to become a mentor. Necessary training will happen during the year, and the student will learn how to sort through applications as they pick their mentee.
+<br>
+<br>The student continues until they complete their formal education program, at which point, they should have all the necessary skills to move easily into the real world. 
+<br>
+<br>At this point it also seems another mentorship program can be available, with students studying Human Resources helping recent graduates find and secure a job.
+<br>
+<br>Embryonic Saint Maker
+<br>
+<br>The one thing that travels with most people throughout their day, is their phone. It is not a perfect end goal of what the Saint Maker is trying to accomplish, but it’s a start.
+<br>
+<br>Growing along with the university, will be a mobile application, that will be the start of the Saint Maker. It will be a type of digital parish.
+<br>
+<br>A place for prayer, community, challenge to conversion, and comfort in times of distress.
+<br>
+<br>It can also serve dual purpose as an interface for students with the university. Again, a further inter-connection between different aspects of life.
+<br>
+<br>Road Map
+<br>
+<br>The university, with a set goal of developing a formational nexus spanning the entirety of human life, must be designed to facilitate achieving that goal. And in the interest of treating funding as something intrinsic to this mission, the university must be self-sustaining almost from the beginning, and moving as quickly as possible to generate the resources to pursue it’s goal.
+<br>
+<br>With this in mind, and seeing the examples of colleges that are set up so that all students work to earn their tuition, it seems the best model to follow (graduate with a degree and a resume).
+<br>
+<br>The university will essentially be made up of teaching “companies.” This should be beneficial for the students, as well as providing a way to begin from nothing, and grow organically, without a large initial funding drive.
+<br>
+<br>Phase One
+<br>
+<br>Step 1.
+<br>
+<br>Web Development Teaching Company: immediate goal of building the online tools needed for the fledgling university, also providing a place to work for the founding students. Goal is to be self-sufficient as soon as possible.
+<br>
+<br>Step 2.
+<br>
+<br>Food Truck/Restaurant Teaching Company: first step towards a physical location (since the Web Development Teaching Company can exist completely online), can be run by a small crew, and provide jobs for few students.
+<br>
+<br>Step 3.
+<br>
+<br>Begin Retreat Center: end goal is to have a fully functioning retreat center run by a Hospitality Teaching Company, but at this point construction will be begun on parts of the retreat center to provide housing for students as the physical location of the university is built up.
+<br>
+<br>Step 4.
+<br>
+<br>Hospitality Teaching Company: manages the embryonic Retreat Center/dorms, to be expanded as soon as the retreat center is fully operational. (potential for properties in the area to be purchased and run as AirBNB’s to expand company and provide more revenue)
+<br>
+<br>Step 5.
+<br>
+<br>Restaurant: end goal of the Food Truck is to establish a full Restaurant, again to provide jobs for students, but also food for the students and faculty of the growing campus of the university.
+<br>
+<br>Step 6.
+<br>
+<br>Full Retreat Center: phase one will be complete when the Retreat Center is fully constructed, students have been moved to new housing, and it is run by the Hospitality Teaching Company.
+<br>
+<br>Step 7.
+<br>
+<br>Construction Teaching Company: to facilitate building the campus, as well as providing jobs for students, but ultimately to build the center of the university campus:
+<br>
+<br>Step 8.
+<br>
+<br>Build Church:  to be the visual beating heart of the university. Not rushed, planned carefully, built to last, and absolutely beautiful for the glory of God and the spreading of the Gospel.
+<br>
+<br>Step 9.
+<br>
+<br>Build Library: not just a building, and not a typical library. It is to be a place fulfilling the usual tasks of a library, both online and in it’s physical location. But it is also to be a laboratory which will work on the Saint Maker.
+<br>
+<br>Phase Two: 
+<br>
+<br>At this point, with the university off to a good start, it will be time to begin committed work on the Saint Maker. All the tools will be in place, but from this vantage point it is difficult to know how the work will proceed. Only God knows how long it will take to get to this point, and we will leave it up to Him to direct the work when the time comes.
+<br>
+<br>Concurrently, the university should continue to grow, with new teaching companies and other additions to the campus.
+<br>
+<br>Get Involved
+<br>
+<br>Pray for the success of this undertaking!
+<br>
+<br>Follow us on Twitter: twitter.com/Saint_Maker
+<br>
+<br>Join our Discord: https://discord.com/invite/PGcbfEx8hz
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hello World!</title>
+        <author>
+            <name>Fr David Baunach</name>
+        </author>
+        <link href="file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/hello-world/index.html"/>
+        <id>file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/hello-world/index.html</id>
+            <category term="Homilies"/>
+            <category term="Blog"/>
+
+        <updated>2022-07-19T11:27:49-05:00</updated>
+            <summary>
+                <![CDATA[
+                    A new website, mostly for homilies, but I'll also post some other writings on the blog section. Peace and Joy! -Fr David
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A new website, mostly for homilies, but I'll also post some other writings on the blog section.</p>
+<p>Peace and Joy!</p>
+<p>-Fr David</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
