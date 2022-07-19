@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Fr David Baunach</title>
-    <link href="file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/feed.xml" rel="self" />
-    <link href="file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview" />
-    <updated>2022-07-19T11:27:49-05:00</updated>
+    <link href="https://davidbaunach.github.io/fr-david-baunach-website/feed.xml" rel="self" />
+    <link href="https://davidbaunach.github.io/fr-david-baunach-website" />
+    <updated>2022-07-19T11:28:21-05:00</updated>
     <author>
         <name>Fr David Baunach</name>
     </author>
-    <id>file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview</id>
+    <id>https://davidbaunach.github.io/fr-david-baunach-website</id>
 
     <entry>
         <title>P2P Messaging </title>
         <author>
             <name>Fr David Baunach</name>
         </author>
-        <link href="file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/p2p-messaging/index.html"/>
-        <id>file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/p2p-messaging/index.html</id>
+        <link href="https://davidbaunach.github.io/fr-david-baunach-website/p2p-messaging/"/>
+        <id>https://davidbaunach.github.io/fr-david-baunach-website/p2p-messaging/</id>
             <category term="Blog"/>
 
         <updated>2022-07-19T11:27:17-05:00</updated>
@@ -76,8 +76,8 @@
         <author>
             <name>Fr David Baunach</name>
         </author>
-        <link href="file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/uber-everything/index.html"/>
-        <id>file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/uber-everything/index.html</id>
+        <link href="https://davidbaunach.github.io/fr-david-baunach-website/uber-everything/"/>
+        <id>https://davidbaunach.github.io/fr-david-baunach-website/uber-everything/</id>
             <category term="Blog"/>
 
         <updated>2022-07-19T11:24:47-05:00</updated>
@@ -164,8 +164,8 @@
         <author>
             <name>Fr David Baunach</name>
         </author>
-        <link href="file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/saint-maker-whitepaper/index.html"/>
-        <id>file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/saint-maker-whitepaper/index.html</id>
+        <link href="https://davidbaunach.github.io/fr-david-baunach-website/saint-maker-whitepaper/"/>
+        <id>https://davidbaunach.github.io/fr-david-baunach-website/saint-maker-whitepaper/</id>
             <category term="Blog"/>
 
         <updated>2022-07-18T21:10:05-05:00</updated>
@@ -330,12 +330,12 @@
         <author>
             <name>Fr David Baunach</name>
         </author>
-        <link href="file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/hello-world/index.html"/>
-        <id>file:///C:\Users\david\Documents\Publii\sites\fr-david-baunach\preview/hello-world/index.html</id>
+        <link href="https://davidbaunach.github.io/fr-david-baunach-website/hello-world/"/>
+        <id>https://davidbaunach.github.io/fr-david-baunach-website/hello-world/</id>
             <category term="Homilies"/>
             <category term="Blog"/>
 
-        <updated>2022-07-19T11:27:49-05:00</updated>
+        <updated>2022-07-19T11:28:21-05:00</updated>
             <summary>
                 <![CDATA[
                     A new website, mostly for homilies, but I'll also post some other writings on the blog section. Peace and Joy! -Fr David
