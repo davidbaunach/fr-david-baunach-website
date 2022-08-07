@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://davidbaunach.github.io/fr-david-baunach-website/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://davidbaunach.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://davidbaunach.github.io/fr-david-baunach-website/</loc>
+<loc>https://davidbaunach.com/</loc>
 </url>
 <url>
-<loc>https://davidbaunach.github.io/fr-david-baunach-website/20220731-homily/</loc>
+<loc>https://davidbaunach.com/20220731-homily/</loc>
 <lastmod>2022-08-06T13:27:14-05:00</lastmod>
 <image:image>
-<image:loc>https://davidbaunach.github.io/fr-david-baunach-website/media\posts\5/640px-Paolo_Veronese_-_The_Marriage_at_Cana_detail_-_WGA24859.jpg</image:loc>
+<image:loc>https://davidbaunach.com/media\posts\5/640px-Paolo_Veronese_-_The_Marriage_at_Cana_detail_-_WGA24859.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://davidbaunach.github.io/fr-david-baunach-website/20220807-homily/</loc>
+<loc>https://davidbaunach.com/20220807-homily/</loc>
 <lastmod>2022-08-06T13:27:44-05:00</lastmod>
 <image:image>
-<image:loc>https://davidbaunach.github.io/fr-david-baunach-website/media\posts\6/1024px-Rembrandt_van_Rijn_Christ_Preaching_La_petite_Tombe_c._1652_NGA_43413.jpg</image:loc>
+<image:loc>https://davidbaunach.com/media\posts\6/1024px-Rembrandt_van_Rijn_Christ_Preaching_La_petite_Tombe_c._1652_NGA_43413.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://davidbaunach.github.io/fr-david-baunach-website/hello-world/</loc>
+<loc>https://davidbaunach.com/hello-world/</loc>
 <lastmod>2022-07-19T11:28:21-05:00</lastmod>
 </url>
 <url>
-<loc>https://davidbaunach.github.io/fr-david-baunach-website/p2p-messaging/</loc>
+<loc>https://davidbaunach.com/p2p-messaging/</loc>
 <lastmod>2022-07-19T11:27:17-05:00</lastmod>
 </url>
 <url>
-<loc>https://davidbaunach.github.io/fr-david-baunach-website/page/2/</loc>
+<loc>https://davidbaunach.com/page/2/</loc>
 </url>
 <url>
-<loc>https://davidbaunach.github.io/fr-david-baunach-website/saint-maker-whitepaper/</loc>
+<loc>https://davidbaunach.com/saint-maker-whitepaper/</loc>
 <lastmod>2022-07-18T21:10:05-05:00</lastmod>
 </url>
 <url>
-<loc>https://davidbaunach.github.io/fr-david-baunach-website/uber-everything/</loc>
+<loc>https://davidbaunach.com/uber-everything/</loc>
 <lastmod>2022-07-19T11:24:47-05:00</lastmod>
 </url>
 </urlset>

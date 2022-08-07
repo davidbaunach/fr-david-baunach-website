@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Fr David Baunach</title>
-    <link href="https://davidbaunach.github.io/fr-david-baunach-website/feed.xml" rel="self" />
-    <link href="https://davidbaunach.github.io/fr-david-baunach-website" />
+    <link href="https://davidbaunach.com/feed.xml" rel="self" />
+    <link href="https://davidbaunach.com" />
     <updated>2022-08-06T13:27:44-05:00</updated>
     <author>
         <name>Fr David Baunach</name>
     </author>
-    <id>https://davidbaunach.github.io/fr-david-baunach-website</id>
+    <id>https://davidbaunach.com</id>
 
     <entry>
         <title>2022.08.07 Homily</title>
         <author>
             <name>Fr David Baunach</name>
         </author>
-        <link href="https://davidbaunach.github.io/fr-david-baunach-website/20220807-homily/"/>
-        <id>https://davidbaunach.github.io/fr-david-baunach-website/20220807-homily/</id>
+        <link href="https://davidbaunach.com/20220807-homily/"/>
+        <id>https://davidbaunach.com/20220807-homily/</id>
             <category term="Homilies"/>
 
         <updated>2022-08-06T13:27:44-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://davidbaunach.github.io/fr-david-baunach-website/media/posts/6/1024px-Rembrandt_van_Rijn_Christ_Preaching_La_petite_Tombe_c._1652_NGA_43413.jpg" alt="" />
+                        <img src="https://davidbaunach.com/media/posts/6/1024px-Rembrandt_van_Rijn_Christ_Preaching_La_petite_Tombe_c._1652_NGA_43413.jpg" alt="" />
                     Readings and Gospel at USCCB Our Gospel has two distinct sections. The first part, is a general exhortation, it applies to all of us. But in the middle of the Gospel, Peter asks Jesus: "Lord, is this parable meant for us, or for everyone?" At&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://davidbaunach.github.io/fr-david-baunach-website/media/posts/6/1024px-Rembrandt_van_Rijn_Christ_Preaching_La_petite_Tombe_c._1652_NGA_43413.jpg" alt="" />
+                    <img src="https://davidbaunach.com/media/posts/6/1024px-Rembrandt_van_Rijn_Christ_Preaching_La_petite_Tombe_c._1652_NGA_43413.jpg" alt="" />
                 
   <p>
     <a href="https://bible.usccb.org/bible/readings/080722.cfm" target="_blank">Readings and Gospel at USCCB</a>
@@ -137,20 +137,20 @@
         <author>
             <name>Fr David Baunach</name>
         </author>
-        <link href="https://davidbaunach.github.io/fr-david-baunach-website/20220731-homily/"/>
-        <id>https://davidbaunach.github.io/fr-david-baunach-website/20220731-homily/</id>
+        <link href="https://davidbaunach.com/20220731-homily/"/>
+        <id>https://davidbaunach.com/20220731-homily/</id>
             <category term="Homilies"/>
 
         <updated>2022-08-06T13:27:14-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://davidbaunach.github.io/fr-david-baunach-website/media/posts/5/640px-Paolo_Veronese_-_The_Marriage_at_Cana_detail_-_WGA24859.jpg" alt="" />
+                        <img src="https://davidbaunach.com/media/posts/5/640px-Paolo_Veronese_-_The_Marriage_at_Cana_detail_-_WGA24859.jpg" alt="" />
                     Readings and Gospel from USCCB Do you remember those Mastercard commercials from nineties? There would be this list of things to buy, and it all led up to some priceless moment or experience. I remember one where it went through all these toys purchased for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://davidbaunach.github.io/fr-david-baunach-website/media/posts/5/640px-Paolo_Veronese_-_The_Marriage_at_Cana_detail_-_WGA24859.jpg" alt="" />
+                    <img src="https://davidbaunach.com/media/posts/5/640px-Paolo_Veronese_-_The_Marriage_at_Cana_detail_-_WGA24859.jpg" alt="" />
                 
   <p>
     <a href="https://bible.usccb.org/bible/readings/073122.cfm" target="_blank">Readings and Gospel from USCCB</a><br>
@@ -225,8 +225,8 @@
         <author>
             <name>Fr David Baunach</name>
         </author>
-        <link href="https://davidbaunach.github.io/fr-david-baunach-website/p2p-messaging/"/>
-        <id>https://davidbaunach.github.io/fr-david-baunach-website/p2p-messaging/</id>
+        <link href="https://davidbaunach.com/p2p-messaging/"/>
+        <id>https://davidbaunach.com/p2p-messaging/</id>
             <category term="Blog"/>
 
         <updated>2022-07-19T11:27:17-05:00</updated>
@@ -287,8 +287,8 @@
         <author>
             <name>Fr David Baunach</name>
         </author>
-        <link href="https://davidbaunach.github.io/fr-david-baunach-website/uber-everything/"/>
-        <id>https://davidbaunach.github.io/fr-david-baunach-website/uber-everything/</id>
+        <link href="https://davidbaunach.com/uber-everything/"/>
+        <id>https://davidbaunach.com/uber-everything/</id>
             <category term="Blog"/>
 
         <updated>2022-07-19T11:24:47-05:00</updated>
@@ -375,8 +375,8 @@
         <author>
             <name>Fr David Baunach</name>
         </author>
-        <link href="https://davidbaunach.github.io/fr-david-baunach-website/saint-maker-whitepaper/"/>
-        <id>https://davidbaunach.github.io/fr-david-baunach-website/saint-maker-whitepaper/</id>
+        <link href="https://davidbaunach.com/saint-maker-whitepaper/"/>
+        <id>https://davidbaunach.com/saint-maker-whitepaper/</id>
             <category term="Blog"/>
 
         <updated>2022-07-18T21:10:05-05:00</updated>
@@ -541,8 +541,8 @@
         <author>
             <name>Fr David Baunach</name>
         </author>
-        <link href="https://davidbaunach.github.io/fr-david-baunach-website/hello-world/"/>
-        <id>https://davidbaunach.github.io/fr-david-baunach-website/hello-world/</id>
+        <link href="https://davidbaunach.com/hello-world/"/>
+        <id>https://davidbaunach.com/hello-world/</id>
             <category term="Homilies"/>
             <category term="Blog"/>
 
