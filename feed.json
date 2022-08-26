@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://davidbaunach.com/not-selling-a-car/",
+            "url": "https://davidbaunach.com/not-selling-a-car/",
+            "title": "Not selling a car",
+            "summary": "Shia LaBeouf Latin Mass Quote Haven't finished the interview yet, but this line was gold. \"Latin mass effects me deeply. Deeply... 'How come?' Because it feels like they're not selling me a car.\"",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://davidbaunach.com/media/posts/9/latin-mass.png\" sizes=\"100vw\" srcset=\"https://davidbaunach.com/media/posts/9/responsive/latin-mass-xs.png 300w ,https://davidbaunach.com/media/posts/9/responsive/latin-mass-sm.png 480w ,https://davidbaunach.com/media/posts/9/responsive/latin-mass-md.png 768w ,https://davidbaunach.com/media/posts/9/responsive/latin-mass-lg.png 1024w ,https://davidbaunach.com/media/posts/9/responsive/latin-mass-xl.png 1360w ,https://davidbaunach.com/media/posts/9/responsive/latin-mass-2xl.png 1600w\"  height=\"592\" width=\"1280\" alt=\"\" />\n      <figcaption>Shia LaBeouf Latin Mass Quote</figcaption>\n    </figure>\n\n  <p>\n    Haven't finished the interview yet, but this line was gold.\n  </p>\n\n  <p>\n    \"Latin mass effects me deeply. Deeply... 'How come?' Because it feels like they're not selling me a car.\"\n  </p>",
+            "image": "https://davidbaunach.com/media/posts/9/latin-mass-2.png",
+            "author": {
+                "name": "Fr David Baunach"
+            },
+            "tags": [
+                   "Blog"
+            ],
+            "date_published": "2022-08-25T21:19:02-05:00",
+            "date_modified": "2022-08-25T21:19:45-05:00"
+        },
+        {
             "id": "https://davidbaunach.com/20220821-homily/",
             "url": "https://davidbaunach.com/20220821-homily/",
             "title": "2022.08.21 Homily",
