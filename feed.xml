@@ -3,12 +3,36 @@
     <title>Fr David Baunach</title>
     <link href="https://davidbaunach.com/feed.xml" rel="self" />
     <link href="https://davidbaunach.com" />
-    <updated>2022-08-25T21:19:45-05:00</updated>
+    <updated>2022-08-26T23:15:24-05:00</updated>
     <author>
         <name>Fr David Baunach</name>
     </author>
     <id>https://davidbaunach.com</id>
 
+    <entry>
+        <title>Just a test</title>
+        <author>
+            <name>Fr David Baunach</name>
+        </author>
+        <link href="https://davidbaunach.com/just-a-test/"/>
+        <id>https://davidbaunach.com/just-a-test/</id>
+            <category term="Blog"/>
+
+        <updated>2022-08-26T23:15:24-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Testing a way to archive posts on another site. Should show up here:&nbsp;https://social.techpriesthub.xyz/nexus/
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Testing a way to archive posts on another site. Should show up here:&nbsp;https://social.techpriesthub.xyz/nexus/
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Not selling a car</title>
         <author>

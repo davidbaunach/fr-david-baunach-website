@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://davidbaunach.com/just-a-test/",
+            "url": "https://davidbaunach.com/just-a-test/",
+            "title": "Just a test",
+            "summary": "Testing a way to archive posts on another site. Should show up here:&nbsp;https://social.techpriesthub.xyz/nexus/",
+            "content_html": "\n  <p>\n    Testing a way to archive posts on another site. Should show up here:&nbsp;https://social.techpriesthub.xyz/nexus/\n  </p>",
+            "author": {
+                "name": "Fr David Baunach"
+            },
+            "tags": [
+                   "Blog"
+            ],
+            "date_published": "2022-08-26T23:15:14-05:00",
+            "date_modified": "2022-08-26T23:15:24-05:00"
+        },
+        {
             "id": "https://davidbaunach.com/not-selling-a-car/",
             "url": "https://davidbaunach.com/not-selling-a-car/",
             "title": "Not selling a car",

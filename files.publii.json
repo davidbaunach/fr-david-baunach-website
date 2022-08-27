@@ -147,7 +147,7 @@
     {
         "path": "/authors/fr-david-baunach/index.html",
         "type": "file",
-        "md5": "632c90ab1e895a79569c29ddd1fd79c9"
+        "md5": "ac7e4cf8358f9dee025f08fc7ab6c3a1"
     },
     {
         "path": "authors/fr-david-baunach/page",
@@ -162,17 +162,17 @@
     {
         "path": "/authors/fr-david-baunach/page/2/index.html",
         "type": "file",
-        "md5": "24de8e4164535d8bb4e40c6803784442"
+        "md5": "3fe881e49105221241dafaacb71156da"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "66d6e61f6e6b115fb93164e27ffad547"
+        "md5": "a95c999cad727e1b4bf67a3f9425c79f"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "9e32ba178efa2a9c842aa9deeb08350a"
+        "md5": "484b0993ab051cb4f1f8d4cde53f875c"
     },
     {
         "path": "hello-world",
@@ -187,7 +187,17 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c50fe2709e0f51340651c4a4aa460d57"
+        "md5": "9cce46c19d3cf22e5f44fd39cc145875"
+    },
+    {
+        "path": "just-a-test",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/just-a-test/index.html",
+        "type": "file",
+        "md5": "de3be6217913e3e267fa6a411d260215"
     },
     {
         "path": "media",
@@ -512,7 +522,7 @@
     {
         "path": "/not-selling-a-car/index.html",
         "type": "file",
-        "md5": "4bab784ecdc98c9f8328906c071c4c7c"
+        "md5": "8dd79cae82082057a2f6ac5338ecfe31"
     },
     {
         "path": "p2p-messaging",
@@ -537,7 +547,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "5420353741d054497a603a218fb52c54"
+        "md5": "3cd88449f47608a9ef8dd6c193810373"
     },
     {
         "path": "robots.txt",
@@ -557,7 +567,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "3c04a61317734ed17b765cbf100e65ac"
+        "md5": "839064105d837faab1f2602800437e96"
     },
     {
         "path": "sitemap.xsl",
@@ -577,7 +587,22 @@
     {
         "path": "/tags/blog/index.html",
         "type": "file",
-        "md5": "ac27387b41b00fdfff767b518240a8ff"
+        "md5": "75d3225f06fdbdb549516c7be0067980"
+    },
+    {
+        "path": "tags/blog/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/blog/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/blog/page/2/index.html",
+        "type": "file",
+        "md5": "ced9155cfac6d6d1ed829375f1341257"
     },
     {
         "path": "tags/homily",
@@ -592,7 +617,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "d9aced84db3dbb9f35044b0f340323e1"
+        "md5": "85e32865d104c6163372a466658e75bc"
     },
     {
         "path": "uber-everything",
