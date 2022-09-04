@@ -217,7 +217,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ee58fb7f5363e8e8077b289fe3cdf2e3"
+        "md5": "237c2c5867244fa962f7fcd890b656f0"
     },
     {
         "path": "just-a-test",
@@ -667,7 +667,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "67df7bdc6185fe8bb2f3ce3671857625"
+        "md5": "290ee6e9af7bb7d2ffbff6234553d6ee"
     },
     {
         "path": "page/3",
@@ -677,7 +677,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "56821703cd245597cc6540bc226ba268"
+        "md5": "571acee131a26dc4d6d0fc317a8475f2"
     },
     {
         "path": "robots.txt",
