@@ -69,8 +69,16 @@
 </image:image>
 </url>
 <url>
+<loc>https://davidbaunach.com/20220925-homily/</loc>
+<lastmod>2022-09-24T19:49:57-05:00</lastmod>
+<image:image>
+<image:loc>https://davidbaunach.com/media\posts\16/1024px-The_Rich_Man_and_Lazarus_Girolamo_da_Ponte.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://davidbaunach.com/getting-started-with-manyverse/</loc>
-<lastmod>2022-09-19T10:42:43-05:00</lastmod>
+<lastmod>2022-09-24T19:26:02-05:00</lastmod>
 </url>
 <url>
 <loc>https://davidbaunach.com/hello-world/</loc>
@@ -97,6 +105,9 @@
 </url>
 <url>
 <loc>https://davidbaunach.com/page/3/</loc>
+</url>
+<url>
+<loc>https://davidbaunach.com/page/4/</loc>
 </url>
 <url>
 <loc>https://davidbaunach.com/saint-maker-whitepaper/</loc>
